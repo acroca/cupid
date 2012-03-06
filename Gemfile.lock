@@ -1,3 +1,8 @@
+PATH
+  remote: .
+  specs:
+    cupid (0.0.1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -15,4 +20,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  cupid!
   rspec

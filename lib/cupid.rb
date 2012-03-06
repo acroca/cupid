@@ -1,4 +1,5 @@
 class Cupid
+  VERSION = "0.0.1"
   attr_accessor :pretenders
   attr_accessor :matrix
   attr_accessor :current_round
